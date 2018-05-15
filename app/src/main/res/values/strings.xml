@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">EnFlo</string>
+
+    //Login
+
+    <string name="login_signin">Sign In</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_forgot">Forgot Password?</string>
+    <string name="login_create">Create Account</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    //Forgot
+
+    <string name="forgot_header">Recover Password</string>
+    <string name="forgot_body">Don\'t worry we\'ve got you covered, just enter your email below.</string>
+    <string name="forgot_email">Email</string>
+    <string name="forgot_hint">Use same email you signed up with</string>
+    <string name="forgot_button">Help Me Out</string>
+    
+    //Create
+    
+    <string name="create_header">Create Account</string>
+    <string name="create_continue">Continue</string>
+    <string name="create_username">Username</string>
+    <string name="create_email">Email</string>
+    <string name="create_Password">Password</string>
+    <string name="create_body">What type of account would you like to create today?</string>
+    <string name="create_diff">Tell me the difference</string>
+    <string name="create_attendee">Attendee</string>
+    <string name="create_Promoter">Promoter</string>
+    <string name="create_promo_body">Tell us a little about your operation.</string>
+    <string name="create_promo_comp">Company name</string>
+    <string name="create_location">Base operation location</string>
+    <string name="create_tags">Enter a few event type tags</string>
+    <string name="create_attend_body">Select some event characteristic to help us cater to your likes better</string>
+    <string name="create_attend_subbody">Learn more</string>
+    <string-array name="create_attend_select">
+        <item>Nightlife</item>
+        <item>Sophisticated</item>
+        <item>Calm</item>
+        <item>Salsa</item>
+        <item>Concert</item>
+        <item>Urban</item>
+        <item>Entertainment</item>
+        <item>Adventurous</item>
+        <item>Hip-Hop</item>
+        <item>Lesbian</item>
+        <item>Dance</item>
+    </string-array>
+
+</resources>

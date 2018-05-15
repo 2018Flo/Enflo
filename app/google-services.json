@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "438390493361",
+    "firebase_url": "https://enflo-57704.firebaseio.com",
+    "project_id": "enflo-57704",
+    "storage_bucket": "enflo-57704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438390493361:android:075d531d1055cebe",
+        "android_client_info": {
+          "package_name": "com.enflo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438390493361-2pr198hi14tu4m77d1gu6dkc2g6jrtq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enflo",
+            "certificate_hash": "e2e55903317e4fa465d40af101dd7498ae686699"
+          }
+        },
+        {
+          "client_id": "438390493361-jk94309pcij4jksv8ago58tej4laqmm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAphjzfQUHTgNnJ-NrizxtLBmJC_alwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438390493361-jk94309pcij4jksv8ago58tej4laqmm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
